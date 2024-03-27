@@ -12,10 +12,16 @@ body{
 }
 div, section{
     border-radius: 10px;
+    margin-top: 5px;
 }
 h3{
     color: crimson;
 }
 div p{
     font-size: 18px;
+}
+
+#A3{
+    background-color:cyan;
+    padding: 20px;
 }
